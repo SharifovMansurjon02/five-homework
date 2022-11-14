@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.contanier{
+    text-align: center;
+    padding: 50px;
+    justify-content: space-around;
+
+    
+}
+h1{
+    font-size: 50px;
+    margin: 50px;
+}
+p{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin:  0 50px;
+}
+button{
+    padding:  15px 40px;
+    border-radius: 30px;
+    border: 0;
+    background-color: rgb(41, 36, 54);
+    color: white;
+    margin:  50px;
+}
